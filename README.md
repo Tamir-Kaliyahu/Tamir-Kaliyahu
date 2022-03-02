@@ -50,7 +50,7 @@
     width="40"
     src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
     </a>
- <a href="code.visualstudio.com/">
+ <a href="https://visualstudio.microsoft.com/">
   <img 
     alt="VS Code"
     height="40"
