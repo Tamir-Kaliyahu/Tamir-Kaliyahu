@@ -76,4 +76,4 @@
 <h3> 📫 Contact Me: 📫</h3>
 <a href="https://www.linkedin.com/in/tamir-kaliyahu-1559491a6/"><img src="https://img.shields.io/badge/-Tamir%20Kaliyahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/tamir-kaliyahu-1559491a6/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
 
-[![Gmail Badge](https://img.shields.io/badge/-dxdiadora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dxdiadora@gmail.com)](mailto:dxdiadora@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tamirkaliyahu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamirkaliyahu@gmail.com)](mailto:tamirkaliyahu@gmail.com)
